@@ -1,0 +1,36 @@
+{
+  "race":{
+    "raceDay":"2023-05-24",
+    "raceNumber":1,
+    "raceName":"Race 1"
+  },
+  "runners":
+  [
+    {
+      "runnerNumber":1,
+      "runnerName":"Runner 1",
+      "race":{
+        "raceDay":"2023-05-24",
+        "raceNumber":1,
+        "raceName":"Race 1"
+      }
+    },{
+    "runnerNumber":2,
+    "runnerName":"Runner 2",
+    "race":{
+      "raceDay":"2023-05-24",
+      "raceNumber":1,
+      "raceName":"Race 1"
+    }
+  },
+    {
+      "runnerNumber":3,
+      "runnerName":"Runner 3",
+      "race":{
+        "raceDay":"2023-05-24",
+        "raceNumber":1,
+        "raceName":"Race 1"
+      }
+    }
+  ]
+}
